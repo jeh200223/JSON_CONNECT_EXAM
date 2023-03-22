@@ -1,0 +1,6 @@
+{"subjects":[
+     {"name":"JAVA Programming Fundamental",      "info":"본 과정은 Java프로그래밍의 첫번째 단계인 Java프로그래밍 기초문법을 입문하는 과정입니다." },
+     {"name":"JAVA AWT/Swing", "info":"자바 GUI프로그래밍 즉, 윈도우프로그래밍을 배우는 과정입니다." },
+     {"name":"JAVA JDBC (데이터베이스 연동)",      "info":"자바와 데이터베이스를 연동." }
+   ]
+}
